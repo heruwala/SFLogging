@@ -1,0 +1,20 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "SFLogging",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "46.0",
+    "packageAliases": {
+        "SFLogging": "0Ho1U000000k9lISAQ",
+        "SFLogging@0.1.0-1": "04t1U0000058XfHQAU",
+        "SFLogging@0.1.0-2": "04t1U0000058XfRQAU",
+        "SFLogging@0.1.0-3": "04t1U0000058XfbQAE"
+    }
+}
